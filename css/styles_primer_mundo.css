@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(to left, #190366, #13897f);
+}
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: korean-hangul-formal;
+    padding: revert-rule;
+    margin: unset;
+}
+img.london {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul { 
+    background-color: brown;
+}
+ul li {
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+}
+main {
+    background-color: transparent;
+    padding: 300px;
+    border-radius: 155px;
+}
+ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+section {
+    font-family: 'comic sans ms', sans-serif;}
+
+    div {
+    border: 40px;
+    border-style: groove;
+}
